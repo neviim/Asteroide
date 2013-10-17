@@ -1,0 +1,2 @@
+c:\users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNaveContent\obj\x86\Debug\JogoNaveContent.contentprojResolveAssemblyReference.cache
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNaveContent\obj\x86\Debug\JogoNaveContent.contentprojResolveAssemblyReference.cache

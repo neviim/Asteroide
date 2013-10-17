@@ -1,0 +1,26 @@
+c:\users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\bin\x86\Debug\JogoNave.exe
+c:\users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\bin\x86\Debug\JogoNave.pdb
+c:\users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\obj\x86\Debug\JogoNave.csprojResolveAssemblyReference.cache
+c:\users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\obj\x86\Debug\JogoNave.exe
+c:\users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\obj\x86\Debug\JogoNave.pdb
+c:\users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\fundo-Space.xnb
+c:\users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\nave.xnb
+c:\users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\fundo-Space2.xnb
+c:\users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\asteroide.xnb
+C:\Users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\fundo-Space-copia.xnb
+C:\Users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\Vida.xnb
+C:\Users\thalisma\documents\visual studio 2010\Projects\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\asteroide2.xnb
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\fundo-Space.xnb
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\nave.xnb
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\fundo-Space2.xnb
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\asteroide.xnb
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\fundo-Space-copia.xnb
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\asteroide2.xnb
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\bin\x86\Debug\Content\Vida.xnb
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\bin\x86\Debug\JogoNave.exe
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\bin\x86\Debug\JogoNave.pdb
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\obj\x86\Debug\JogoNave.csprojResolveAssemblyReference.cache
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\obj\x86\Debug\JogoNave.exe
+D:\Developer\C#_Games\JogoNave\JogoNave\JogoNave\obj\x86\Debug\JogoNave.pdb
